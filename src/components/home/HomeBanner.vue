@@ -1,5 +1,5 @@
 <template>
-  <div class="banner">
+  <section class="banner">
     <div class="description">
       <div class="desc-txt">
         <h2>Olá, eu sou o Bryan !!</h2>
@@ -14,7 +14,7 @@
     <div class="img-container">
       <img src="" alt="LOGO FOTO" />
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
