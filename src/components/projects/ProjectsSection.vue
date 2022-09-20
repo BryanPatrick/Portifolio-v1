@@ -65,9 +65,10 @@ export default {
   display: flex;
   flex-direction: column;
   text-align: center;
-  border: 2px solid black;
+  background-color: white;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   padding: 10px;
-  margin: 0 20px;
+  margin: 0 30px;
 }
 </style>
